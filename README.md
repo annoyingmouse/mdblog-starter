@@ -1,7 +1,7 @@
 mdblog-starter
 ==============
 
-Hyde - a Google Sheets powered markdown blogging engine (version without comments).
+Hyde - <a href="http://annoyingmouse.github.io/mdblog-starter/">a Google Sheets powered markdown blogging engine (version without comments)</a>.
 
 Described and linked to <a href="http://drmsite.blogspot.co.uk/2014/01/hyde-frontend.html">here</a>.
 
